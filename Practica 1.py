@@ -2,7 +2,7 @@ import requests
 import json
 import re
 url = 'https://www.virustotal.com/vtapi/v2/file/scan'
-
+##e
 
 params = {'apikey': '8dc1146093be4a3c8ab45441c6d7af66b75fd8d6bcd83d493d9628d2bbbb7377'}
 direccion ="c:\\Users\\juced\\Documents\\LSTI\\Laboratorio de Programacion\\test.txt"
