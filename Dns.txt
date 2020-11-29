@@ -1,0 +1,265 @@
+
+Configuraci¢n IP de Windows
+
+    merchandise.opera-api.com
+    ----------------------------------------
+    Nombre de registro  . : merchandise.opera-api.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 432
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.26.182.111
+
+
+    Nombre de registro  . : merchandise.opera-api.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 432
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 185.26.182.112
+
+
+    nexusrules.officeapps.live.com
+    ----------------------------------------
+    Nombre de registro  . : nexusrules.officeapps.live.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 16
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : prod.nexusrules.live.com.akadns.net
+
+
+    Nombre de registro  . : prod.nexusrules.live.com.akadns.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 16
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 52.109.8.21
+
+
+    r3---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r3---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1080
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r3.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r3.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1080
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.14
+
+
+    play.google.com
+    ----------------------------------------
+    Nombre de registro  . : play.google.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 270
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.195.238
+
+
+    ipv4-c217-lax001-ix.1.oca.nflxvideo.net
+    ----------------------------------------
+    Nombre de registro  . : ipv4-c217-lax001-ix.1.oca.nflxvideo.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 98
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 23.246.15.171
+
+
+    s2.googleusercontent.com
+    ----------------------------------------
+    Nombre de registro  . : s2.googleusercontent.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 143
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : googlehosted.l.googleusercontent.com
+
+
+    Nombre de registro  . : googlehosted.l.googleusercontent.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 143
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 216.58.217.1
+
+
+    r2---sn-9gv7ened.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r2---sn-9gv7ened.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1204
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r2.sn-9gv7ened.googlevideo.com
+
+
+    Nombre de registro  . : r2.sn-9gv7ened.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1204
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 74.125.1.7
+
+
+    r4---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r4---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1313
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r4.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r4.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1313
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.15
+
+
+    fp-vp-nocache.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vp-nocache.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 535
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vp-nocache.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vp-nocache.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 535
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 28
+    Per¡odo de vida . . . : 535
+    Longitud de datos . . : 16
+    Secci¢n . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:2800:11f:17a5:191a:18d5:537:22f9
+
+
+    fp-vp-nocache.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vp-nocache.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 109
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vp-nocache.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vp-nocache.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 109
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 109
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    ajax.aspnetcdn.com
+    ----------------------------------------
+    Nombre de registro  . : ajax.aspnetcdn.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 227
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : mscomajax.vo.msecnd.net
+
+
+    Nombre de registro  . : mscomajax.vo.msecnd.net
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 227
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : cs22.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs22.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 227
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 152.199.4.33
+
+
+    mus.lenovo.com
+    ----------------------------------------
+    Nombre de registro  . : mus.lenovo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 2355
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 54.215.241.186
+
+
+    ipv4-c002-ntr001-telmex-isp.1.oca.nflxvideo.net
+    ----------------------------------------
+    Nombre de registro  . : ipv4-c002-ntr001-telmex-isp.1.oca.nflxvideo.net
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 102
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 189.247.75.243
+
+
+    r1---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r1---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1315
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r1.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r1.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1315
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.12
+
+
+    r2---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r2---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Per¡odo de vida . . . : 1204
+    Longitud de datos . . : 8
+    Secci¢n . . . . . . . : respuesta
+    Registro CNAME. . . . : r2.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r2.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 1
+    Per¡odo de vida . . . : 1204
+    Longitud de datos . . : 4
+    Secci¢n . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.13
+
+
